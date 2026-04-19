@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/driver/dashboard/page": "app/driver/dashboard/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/driver/earnings/page": "app/driver/earnings/page.js",
+  "/driver/profile/page": "app/driver/profile/page.js",
+  "/driver/trips/page": "app/driver/trips/page.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/rider/book/page": "app/rider/book/page.js",
+  "/rider/history/page": "app/rider/history/page.js",
+  "/rider/payments/page": "app/rider/payments/page.js",
+  "/signup/page": "app/signup/page.js"
+}
